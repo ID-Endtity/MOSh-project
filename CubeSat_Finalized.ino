@@ -19,7 +19,7 @@ const byte TELEMETRY_ADDRESS[6] = "OUT01";
 const int MIN_ANGLE = -40;
 const int MAX_ANGLE =  40;
 const int ANG_STEP = 10;
-const int DELAY = 1000;
+const int DELAY = 3000;
 
 // Сервы (0 градусов по нашей системе = 90 градусов на серве)
 const int CENTER_POS   = 90;
